@@ -93,12 +93,6 @@ class IntroViewController: UIViewController {
                 
             })
             
-            /*let homeVC = HomeViewController()
-            
-            homeVC.modalPresentationStyle = .fullScreen
-            
-            present(homeVC, animated: true, completion: nil)*/
-            
         }else {
             
             let vC = SignUpViewController()

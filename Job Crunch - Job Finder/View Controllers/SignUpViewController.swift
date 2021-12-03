@@ -178,7 +178,9 @@ class SignUpViewController: UIViewController, UITextViewDelegate {
         
         let btn = UIButton()
         btn.translatesAutoresizingMaskIntoConstraints = false
+        
         btn.backgroundColor = .clear
+        
         btn.setTitle("Already have an account ? Sign In", for: .normal)
         
         btn.setTitleColor(.lightGray, for: .normal)

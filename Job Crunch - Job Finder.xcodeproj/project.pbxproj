@@ -50,6 +50,7 @@
 		A1B037672566BD770058F425 /* CompanyJobsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B037662566BD770058F425 /* CompanyJobsViewController.swift */; };
 		A1B037692566C02F0058F425 /* PostAJobViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B037682566C02F0058F425 /* PostAJobViewController.swift */; };
 		A1CC77B6256BEF6200926BE4 /* jobcrunchcfile.m in Sources */ = {isa = PBXBuildFile; fileRef = A1CC77B5256BEF6200926BE4 /* jobcrunchcfile.m */; };
+		A1E6F604275A33580045D2FB /* NetworkingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1E6F603275A33580045D2FB /* NetworkingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -122,6 +123,7 @@
 		A1B037682566C02F0058F425 /* PostAJobViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostAJobViewController.swift; sourceTree = "<group>"; };
 		A1CC77B4256BEF6100926BE4 /* Job Crunch - Job Finder-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Job Crunch - Job Finder-Bridging-Header.h"; sourceTree = "<group>"; };
 		A1CC77B5256BEF6200926BE4 /* jobcrunchcfile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = jobcrunchcfile.m; sourceTree = "<group>"; };
+		A1E6F603275A33580045D2FB /* NetworkingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkingViewController.swift; sourceTree = "<group>"; };
 		A35F00697704FA70DF072F60 /* libPods-Job Crunch - Job Finder.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Job Crunch - Job Finder.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -262,6 +264,7 @@
 				A12AF6DE2569BE8D00CF57E1 /* LocationViewController.swift */,
 				A12AF6E02569BEA600CF57E1 /* LocationTableViewController.swift */,
 				A12AF6DC2569BE6300CF57E1 /* PickProfileImageViewController.swift */,
+				A1E6F603275A33580045D2FB /* NetworkingViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -488,6 +491,7 @@
 				A120AD29256532700091DE17 /* RecentlyPostedCollectionViewCell.swift in Sources */,
 				A124C8012567D89A003582FA /* CandidatesCollectionViewCell.swift in Sources */,
 				A1696E65256C8B3A00A426AC /* ChatsTableViewController.swift in Sources */,
+				A1E6F604275A33580045D2FB /* NetworkingViewController.swift in Sources */,
 				A124C8052567E88D003582FA /* ApplicationsCollectionViewCell.swift in Sources */,
 				A120AD31256559540091DE17 /* FilterViewController.swift in Sources */,
 				A1CC77B6256BEF6200926BE4 /* jobcrunchcfile.m in Sources */,

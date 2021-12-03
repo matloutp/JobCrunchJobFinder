@@ -22,7 +22,7 @@ class PostAJobViewController: UIViewController {
         btn.translatesAutoresizingMaskIntoConstraints = false
         btn.layer.masksToBounds = false
         btn.layer.cornerRadius = 35
-        btn.backgroundColor = .clear//UIColor(red: 133/255, green: 152/255, blue: 248/255, alpha: 1)
+        btn.backgroundColor = .clear
         
         let img = UIImage(named: "left-arrow")?.withRenderingMode(.alwaysTemplate)
         

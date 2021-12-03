@@ -27,7 +27,6 @@ class ChatsTableViewController: UITableViewController {
         
         navigationItem.title = "Chats"
         
-        //UIColor(red: 235/255, green: 58/255, blue: 82/255, alpha: 1)
         UINavigationBar.appearance().barTintColor = UIColor(red: 235/255, green: 58/255, blue: 82/255, alpha: 1)
         UINavigationBar.appearance().tintColor = .white
         UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
