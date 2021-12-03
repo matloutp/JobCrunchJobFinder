@@ -246,7 +246,7 @@ class SignUpViewController: UIViewController, UITextViewDelegate {
         let vw = UIView()
         vw.translatesAutoresizingMaskIntoConstraints = false
         
-        
+        vw.backgroundColor = .clear
         
         return vw
     }()

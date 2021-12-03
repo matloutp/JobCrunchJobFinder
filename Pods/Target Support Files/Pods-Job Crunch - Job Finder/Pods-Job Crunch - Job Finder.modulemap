@@ -1,0 +1,6 @@
+module Pods_Job_Crunch___Job_Finder {
+  umbrella header "Pods-Job Crunch - Job Finder-umbrella.h"
+
+  export *
+  module * { export * }
+}
